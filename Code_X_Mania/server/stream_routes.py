@@ -13,7 +13,7 @@ from Code_X_Mania.utils.render_template import render_page
 from ..utils.time_format import get_readable_time
 routes = web.RouteTableDef()
 from urllib.parse import quote_plus
-
+kg18="ago"
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
@@ -24,7 +24,6 @@ async def root_route_handler(request):
                               "ago":"",
                               "telegram_bot": '@'+(await StreamBot.get_me()).username,
                               "Bot Version":"3.0.1"})
-
 
 
 @routes.get("/watch/{message_id}")
