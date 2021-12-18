@@ -177,14 +177,4 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
   
  
- https://github.com/Sk8903/filestreambot-1
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2331622436178629"
-     crossorigin="anonymous"></script>
-<!-- linkshortenersl_banner2_AdSense2_300x250_as -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-2331622436178629"
-     data-ad-slot="6434407296"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ 
